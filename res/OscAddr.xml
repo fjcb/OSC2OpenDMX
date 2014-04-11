@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OscAddr>
+  <Address index="0" name="/1/fader1" />
+  <Address index="1" name="/2/fader2" />
+  <Address index="2" name="/2/fader3" />
+  <Address index="3" name="/2/fader4" />
+  <Address index="4" name="/2/fader5" />
+  <Address index="5" name="/2/fader6" />
+  <Address index="6" name="/2/fader7" />
+  <Address index="7" name="/2/fader8" />
+  <Address index="8" name="/3/fader1" />
+  <Address index="9" name="/2/fader2" />
+</OscAddr>
